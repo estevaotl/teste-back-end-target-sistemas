@@ -1,4 +1,4 @@
-## Teste de back-end para a empresa Target Sistemas
+# Teste de back-end para a empresa Target Sistemas
 
 ## QUESTÃO 2
 Está localizada na pasta `fibonacci`, como  `index.php`
